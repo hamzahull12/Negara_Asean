@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Negara Asean</string>
+    <string name="title">Association of Southeast Asian Nations</string>
+    <string name="asean">( ASEAN )</string>
+    <string name="description">deskripsi</string>
+    <string name="counrty_asean">Nama Negara</string>
+    <string name="title_name">M Hamzah Maulana</string>
+    <string name="email">hamzahmaulana212@gmail.com</string>
+    <string name="title_about">The Founding of ASEAN</string>
+    <string name="about_asean">About Asean</string>
+    <string name="about_profile">About Profile</string>
+    <string name="member_asean">List Asean</string>
+    <string name="about_history">On 8 August 1967, five leaders – the Foreign Ministers of Indonesia, Malaysia, the Philippines, Singapore and Thailand – sat down together in the main hall of the Department of Foreign Affairs building in Bangkok, Thailand and signed a document. By virtue of that document, the Association of Southeast Asian Nations (ASEAN) was born. The five Foreign Ministers who signed it – Adam Malik of Indonesia, Narciso R. Ramos of the Philippines, Tun Abdul Razak of Malaysia, S. Rajaratnam of Singapore, and Thanat Khoman of Thailand – would subsequently be hailed as the Founding Fathers of probably the most successful inter-governmental organization in the developing world today. And the document that they signed would be known as the ASEAN Declaration.It was a short, simply-worded document containing just five articles. It declared the establishment of an Association for Regional Cooperation among the Countries of Southeast Asia to be known as the Association of Southeast Asian Nations (ASEAN) and spelled out the aims and purposes of that Association. These aims and purposes were about cooperation in the economic, social, cultural, technical, educational and other fields, and in the promotion of regional peace and stability through abiding respect for justice and the rule of law and adherence to the principles of the United Nations Charter. It stipulated that the Association would be open for participation by all States in the Southeast Asian region subscribing to its aims, principles and purposes. It proclaimed ASEAN as representing “the collective will of the nations of Southeast Asia to bind themselves together in friendship and cooperation and, through joint efforts and sacrifices, secure for their peoples and for posterity the blessings of peace, freedom and prosperity.”</string>
+    <string name="list_member">Member Of ASEAN</string>
+    <string-array name="data_state">
+        <item>Indonesia</item>
+        <item>Thailand</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Brunei Darussalam</item>
+        <item>Philippines</item>
+        <item>Laos</item>
+        <item>Cambodia</item>
+        <item>Myanmar</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Republik Indonesia atau lebih lengkapnya Negara Kesatuan Republik Indonesia, adalah negara kepulauan di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Oseania sehingga dikenal sebagai negara lintas benua, serta antara Samudra Pasifik dan Samudra Hindia.</item>
+        <item>Thailand, secara resmi Kerajaan Thailand (bahasa Thai: ราชอาณาจักรไทย, Pengucapan Thai: [raːt̚˥˩.t͡ɕʰa˦˥.ʔaː˧.naː˧.t͡ɕak̚˨˩.tʰaj˧]) yang dibaca Rātcha-āṇāchạk Thai, Rāja-ādnyācạkra Thai; atau (Prathēt Thai, Pradēsa Thai), Muang Thai, atau Mueang Thai (dibaca: "meng-thai", sama dengan versi Inggrisnya, berarti "Negeri Thai"), adalah sebuah negara di Asia Tenggara yang berbatasan dengan Laos dan Kamboja di timur, Malaysia dan Teluk Siam di selatan, dan Myanmar dan Laut Andaman di barat. Kerajaan Thai dahulu dikenal sebagai Siam sampai tanggal 11 Mei 1949. Kata "Thai" (ไทย) berarti "kebebasan" dalam bahasa Thai, tetapi juga dapat merujuk kepada suku Thai, sehingga menyebabkan nama Siam masih digunakan di kalangan warga negara Thai terutama kaum minoritas Tionghoa dan Amerika.</item>
+        <item>Malaysia (Jawi: مليسيا) adalah sebuah negara federal yang terdiri dari tiga belas negeri (negara bagian) dan tiga wilayah federal di Asia Tenggara dengan luas 330.803 km persegi. Ibu kotanya adalah Kuala Lumpur, sedangkan Putrajaya menjadi pusat pemerintahan federal. Jumlah penduduk negara ini mencapai 34.219.975 jiwa pada tahun 2023. Negara ini dipisahkan ke dalam dua kawasan — Semenanjung Malaysia dan Malaysia Timur — oleh Kepulauan Natuna, wilayah Indonesia di Laut Natuna yang terletak di sebelah Selatan dari Laut China Selatan. Malaysia berbatasan dengan Thailand, Indonesia, Singapura, Brunei Darussalam, dan Filipina. Negara ini terletak di dekat khatulistiwa dan beriklim tropika. Kepala negara Malaysia adalah seorang Raja atau seorang Sultan yang dipilih secara bergiliran setiap 5 tahun sekali dari antara raja negara-negara bagian yang diperintah. Raja Malaysia biasanya memakai gelar Sri Paduka Baginda Yang di-Pertuan Agong dan pemerintahannya dikepalai oleh seorang Perdana Menteri. Model pemerintahan Malaysia mirip dengan sistem parlementer Westminster.</item>
+        <item>Singapura (nama resmi: Republik Singapura) adalah sebuah negara pulau dan negara kota di lepas ujung selatan Semenanjung Malaya, 137 kilometer (85 mi) di utara khatulistiwa di Asia Tenggara. Negara ini terpisah dari Malaysia oleh Selat Johor di utara, dan dari Kepulauan Riau, Indonesia oleh Selat Singapura di selatan. Singapura adalah pusat keuangan terdepan ketiga di dunia dan sebuah kota dunia kosmopolitan yang memainkan peran penting dalam perdagangan dan keuangan internasional. Pelabuhan Singapura adalah satu dari lima pelabuhan tersibuk di dunia.</item>
+        <item>Brunei Darussalam atau Brunei adalah negara berdaulat di Asia Tenggara yang terletak di pantai utara pulau Kalimantan. Negara ini memiliki wilayah seluas 5.765 km² yang menempati pulau Kalimantan dengan garis pantai seluruhnya menyentuh Laut Tiongkok Selatan. Wilayahnya dipisahkan ke dalam negara bagian di Sarawak, Malaysia. Saat ini, Brunei Darussalam memiliki Indeks Pembangunan Manusia tertinggi kedua di Asia Tenggara setelah Singapura, sehingga diklasifikasikan sebagai Negara maju. Menurut Dana Moneter Internasional, Brunei memiliki produk domestik bruto per kapita terbesar kelima di dunia dalam keseimbangan kemampuan berbelanja. Sementara itu, Forbes menempatkan Brunei Darussalam sebagai negara terkaya kelima dari 182 negara karena memiliki ladang minyak bumi dan gas alam yang luas.[10] Selain itu, Brunei juga terkenal dengan kemakmurannya dan ketegasan dalam melaksanakan Agama Islam, baik dalam bidang pemerintahan maupun kehidupan bermasyarakat. Pada tahun 2020, tercatat bahwa Brunei memiliki penduduk sebanyak 460,345 jiwa.</item>
+        <item>Filipina, dengan nama resmi disebut sebagai Republik Filipina (Filipina: Republika ng Pilipinas) adalah sebuah negara kepulauan dan negara kesatuan yang bersistem presidensial dengan berbentuk republik konstitusional di Asia Tenggara, sebelah utara Indonesia, dan timur laut Sabah. Filipina merupakan sebuah negara kepulauan yang terletak di Lingkar Pasifik Barat, negara ini terdiri dari 7.641 pulau. Selama ribuan tahun, warga kepulauan Filipina, dan pekerja keras ini telah mengembangkan sistem cocok tanam padi yang sangat maju, yang menyediakan makanan pokok bagi masyarakatnya.</item>
+        <item>Laos (Lao: ລາວ, Lāo [láːw]), secara resmi Republik Demokratis Rakyat Laos (Lao: ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ, romanized: Sathalanalat Paxathipatai Paxaxôn Lao), adalah sebuah negara yang terkurung daratan di Asia Tenggara, yang berbatasan dengan Myanmar dan Republik Rakyat Tiongkok di sebelah barat laut, Vietnam di timur, Kamboja di selatan, dan Thailand di sebelah barat. Dari abad ke-14 hingga abad ke-18, negara ini disebut Lan Xang atau "Negeri Seribu Gajah".</item>
+        <item>Perkembangan peradaban Kamboja terjadi pada abad 1 Masehi. Selama abad ke-3,4 dan 5 Masehi, negara Funan dan Chenla bersatu untuk membangun daerah Kamboja. Negara-negara ini mempunyai hubungan dekat dengan Cina dan India. Kekuasaan dua negara ini runtuh ketika Kerajaan Khmer dibangun dan berkuasa pada abad ke-9 sampai abad ke-13. Kerajaan Khmer masih bertahan hingga abad ke-15. Ibu kota Kerajaan Khmer terletak di Angkor, sebuah daerah yang dibangun pada masa kejayaan Khmer. Angkor Wat, yang dibangun juga pada saat itu, menjadi simbol bagi kekuasaan Khmer.</item>
+        <item>Myanmar (bahasa Burma: မြန်မာ; MLCTS: mranma, diucapkan [mjàɴmà]), secara resmi bernama Republik Persatuan Myanmar (bahasa Burma: ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်; diucapkan [pjìdàʊɴzṵ θàɴməda̰ mjəmà nàɪɴŋàɴdɔ̀]) juga dikenal sebagai Burma (nama resmi hingga tahun 1989), adalah sebuah negara berdaulat di Asia Tenggara. Myanmar berbatasan dengan India dan Bangladesh di sebelah barat, Thailand dan Laos di sebelah timur dan Tiongkok di sebelah utara dan timur laut. Negara seluas 676.578 km² ini telah diperintah oleh pemerintahan militer sejak kudeta tahun 1988. Negara ini adalah negara berkembang dan memiliki populasi lebih dari 51 juta jiwa (sensus 2014).</item>
+        <item>Vietnam, lengkapnya bernama Republik Sosialis Vietnam adalah negara di Asia Tenggara Daratan. Vietnam berbatasan dengan Tiongkok di utara, Laos di barat laut, Kamboja di barat daya, dan dengan Laut Tiongkok Selatan di timur. Laut Tiongkok Selatan di Vietnam disebut Laut Timur.Sejarah Vietnam berawal pada 4000 tahun yang lalu. Vietnam sejak abad ke-11 SM sampai abad ke-10 Masehi mayoritas Vietnam bagian utara berada di bawah kekuasaan kekaisaran Tiongkok. Pada 939 Masehi, Vietnam merdeka secara politik, dan mulai menaklukan Champa di bagian selatan. Masa ini dianggap sebagai masa pembangunan identitas Vietnam.</item>
+    </string-array>
+    <integer-array name="data_flag">
+        <item>@drawable/indoflag</item>
+        <item>@drawable/thailflag</item>
+        <item>@drawable/malayflag</item>
+        <item>@drawable/singaporeflag</item>
+        <item>@drawable/bruneiflag</item>
+        <item>@drawable/philipineflag</item>
+        <item>@drawable/laosflag</item>
+        <item>@drawable/cambodiaflag</item>
+        <item>@drawable/miyanmarflag</item>
+        <item>@drawable/vietnamflag</item>
+    </integer-array>
+</resources>
